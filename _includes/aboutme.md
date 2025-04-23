@@ -1,0 +1,3 @@
+## About Me
+
+I am a Ph.D. student at the [Computational Biology Group](https://bsse.ethz.ch/cbg) at D-BSSE, ETH Zurich. My research interest is concerned with mathematical and computational tools applied to the area of cancer evolution. In particular, I am developing probabilistic models of tumor progression for single-cell sequencing data. I completed my Bachelor's degree in mathematics at the University of Waterloo in Canada. Before joining the computational biology group in 2020 as a PhD student, I studied Master of Science in Statistics at the ETH Zürich, during which I developed my interest in probabilistic graphical models, including Bayesian networks, and their applications to biology in general.
