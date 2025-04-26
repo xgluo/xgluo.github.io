@@ -1,0 +1,7 @@
+## Education
+
+- **Ph.D. Candidate in Computational Biology**, ETH Zurich, Basel, Switzerland (Nov 2020 – expected Dec 2025).  
+
+- **Master of Science in Statistics**, ETH Zurich, Zurich, Switzerland (Sep 2018 – Sep 2020).  
+
+- **Bachelor of Mathematics**, University of Waterloo, Waterloo, Canada (Sep 2013 – Apr 2018).  
