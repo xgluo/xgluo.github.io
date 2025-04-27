@@ -6,9 +6,9 @@ email: luox (at) ethz.ch
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Xiang Ge Luo, Xiangge Luo, XGLuo, ETH Zurich, cancer evolution, bayesian statistics, probabilistic modeling
+description: Xiang Ge Luo's personal website.
+canonical: https://xgluo.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -16,14 +16,13 @@ google_scholar: https://scholar.google.com/citations?user=_7XBlXkAAAAJ&hl=en&oi=
 cv_link: assets/files/XGLuo_CV.pdf
 github_link: https://github.com/xgluo
 linkedin: https://www.linkedin.com/in/valentina-xiangge-luo/
-# twitter: https://twitter.com/
 bluesky: https://bsky.app/profile/xianggeluo.bsky.social
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/XGLuo_pic.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
