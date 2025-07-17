@@ -1,7 +1,7 @@
 ## Publications
 
 <p style="text-indent: -2em; margin-left: 2em;">
-<strong>X. G. Luo</strong>, J. Kuipers, K. Rupp, K. Takahashi, and N. Beerenwinkel. Bayesian inference of fitness landscapes via tree-structured branching processes. <em>Bioinformatics, in press</em>, 2025. (<strong>ISMB/ECCB 2025</strong>, acceptance rate 17.5%) <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634649v2" target="_blank">[preprint]</a>
+<strong>X. G. Luo</strong>, J. Kuipers, K. Rupp, K. Takahashi, and N. Beerenwinkel. Bayesian inference of fitness landscapes via tree-structured branching processes. <em>Bioinformatics, 41:i160-i169</em>, 2025. (<strong>ISMB/ECCB 2025</strong>, acceptance rate 17%) <a href="https://doi.org/10.1093/bioinformatics/btaf193" target="_blank">[paper]</a>
 
 <p style="text-indent: -2em; margin-left: 2em;">
 <strong>X. G. Luo</strong>, J. Kuipers, and N. Beerenwinkel. Joint inference of exclusivity patterns and recurrent trajectories from tumor mutation trees. <em>Nature Communications</em>, 14:3676, 2023. (<strong>RECOMB 2022</strong>, acceptance rate 21.3%) <a href="https://www.nature.com/articles/s41467-023-39400-w" target="_blank">[paper]</a>
