@@ -8,3 +8,6 @@
 
 <p style="text-indent: -2em; margin-left: 2em;">
 <strong>X. G. Luo</strong>, G. Moffa, and J. Kuipers. Learning Bayesian networks from ordinal data. <em>Journal of Machine Learning Research</em>, 22:1-44, 2021. <a href="https://jmlr.org/papers/v22/20-1338.html" target="_blank">[paper]</a>
+
+<p style="text-indent: -2em; margin-left: 2em;">
+<strong>X. G. Luo</strong> and A. Schied. Nash equilibrium for risk-averse investors in a market impact game with transient price impact. <em>Market Microstructure and Liquidity</em>, 5:2050001, 2019. <a href="https://doi.org/10.1142/S238262662050001X" target="_blank">[paper]</a>

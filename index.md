@@ -11,4 +11,8 @@ layout: homepage
 
 <div style="margin-top: 50px;"></div>
 
+{% include_relative _includes/preprints.md %}
+
+<div style="margin-top: 50px;"></div>
+
 {% include_relative _includes/publications.md %}
